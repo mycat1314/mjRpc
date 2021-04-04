@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c066278-4e1b-4ee4-8cdf-915307a2e1af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin File" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qYAl9NHdghagffvchuTTBKNovU" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.weihua.jrpc.pool" />
+      <recent name="com.weihua.jrpc.registry" />
+      <recent name="com.weihua.jrpc.utils" />
+      <recent name="com.weihua.jrpc.config.consumer" />
+      <recent name="com.weihua.jrpc.zookeeper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JRpc\mj-rpc-core\src\test\java" />
+      <recent name="D:\JRpc\mj-rpc-core\src\main\resources" />
+      <recent name="D:\JRpc\mj-rpc-core\src\main\java" />
+      <recent name="D:\JRpc\src\main\resources" />
+      <recent name="D:\JRpc\src\main\java\com\weihua\jrpc\client\codec" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ConsumerStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weihua.jrpc.invoke.consumer.ConsumerStarter" />
+      <module name="mj-rpc-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weihua.jrpc.invoke.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weihua.jrpc.spi.Main" />
+      <module name="mj-rpc-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weihua.jrpc.spi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weihua.jrpc.invoke.provider.ProviderStarter" />
+      <module name="mj-rpc-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weihua.jrpc.invoke.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderStarter1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.weihua.jrpc.invoke.provider.ProviderStarter" />
+      <module name="mj-rpc-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weihua.jrpc.invoke.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderStarter2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.weihua.jrpc.invoke.provider.ProviderStarter" />
+      <module name="mj-rpc-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weihua.jrpc.invoke.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UuidUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weihua.jrpc.utils.UuidUtils" />
+      <module name="mj-rpc-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weihua.jrpc.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProviderStarter1" />
+      <item itemvalue="Application.ProviderStarter2" />
+      <item itemvalue="Application.ConsumerStarter" />
+      <item itemvalue="Application.ProviderStarter" />
+      <item itemvalue="Application.UuidUtils" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerStarter" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UuidUtils" />
+        <item itemvalue="Application.ProviderStarter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c066278-4e1b-4ee4-8cdf-915307a2e1af" name="Default Changelist" comment="" />
+      <created>1617246297449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617246297449</updated>
+      <workItem from="1617246301234" duration="39192000" />
+      <workItem from="1617349792413" duration="35239000" />
+      <workItem from="1617448701718" duration="570000" />
+      <workItem from="1617449297641" duration="6107000" />
+      <workItem from="1617507559672" duration="15729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="191" key="#Project_Structure" timestamp="1617537360977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="191" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1617537360977" />
+    <state x="438" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617451187220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="438" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617451187220" />
+    <state x="1143" y="181" key="#com.intellij.ide.util.MemberChooser" timestamp="1617530540189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1143" y="181" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617530540189" />
+    <state x="651" y="291" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617448339554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="651" y="291" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617448339553" />
+    <state x="357" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1617537079933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="357" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617537079933" />
+    <state x="1109" y="619" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1617276019584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1109" y="619" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1617276019584" />
+    <state width="577" height="761" key="DebuggerActiveHint" timestamp="1617535108283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="577" height="761" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1617535108283" />
+    <state x="689" y="217" key="FileChooserDialogImpl" timestamp="1617537967018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617537967018" />
+    <state width="1156" height="87" key="GridCell.Tab.0.bottom" timestamp="1617537177770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="87" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617537177770" />
+    <state width="1156" height="87" key="GridCell.Tab.0.center" timestamp="1617537177770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="87" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617537177770" />
+    <state width="1156" height="87" key="GridCell.Tab.0.left" timestamp="1617537177770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="87" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617537177770" />
+    <state width="1156" height="87" key="GridCell.Tab.0.right" timestamp="1617537177770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="87" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617537177770" />
+    <state width="1156" height="87" key="GridCell.Tab.1.bottom" timestamp="1617537177770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="87" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617537177770" />
+    <state width="1156" height="87" key="GridCell.Tab.1.center" timestamp="1617537177770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="87" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617537177770" />
+    <state width="1156" height="87" key="GridCell.Tab.1.left" timestamp="1617537177770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="87" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617537177770" />
+    <state width="1156" height="87" key="GridCell.Tab.1.right" timestamp="1617537177770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="87" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617537177770" />
+    <state x="515" y="52" key="NewModule_or_Project.wizard" timestamp="1617273065191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="515" y="52" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1617273065191" />
+    <state x="428" y="0" key="SettingsEditor" timestamp="1617509163480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="428" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617509163480" />
+    <state x="711" y="285" key="chooseDestDirectoryDialog" timestamp="1617263640363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="285" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617263640363" />
+    <state x="541" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1617507584282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="541" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617507584282" />
+    <state x="403" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1617264037502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="403" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1617264037502" />
+    <state x="551" y="163" width="818" height="714" key="find.popup" timestamp="1617453697133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="163" width="818" height="714" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617453697133" />
+    <state x="322" y="0" key="new project wizard" timestamp="1617448142520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="322" y="0" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1617448142520" />
+    <state x="642" y="79" key="refactoring.ChangeSignatureDialog" timestamp="1617276446907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="79" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617276446907" />
+    <state x="714" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1617437252206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617437252206" />
+  </component>
+</project>
